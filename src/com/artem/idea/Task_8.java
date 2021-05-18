@@ -18,6 +18,7 @@ public class Task_8 {
 
         for (int i = 0; i < Array.length; i++) {
             if (Array.length > 0) {
+
                 double sum = 0;
                 for (int j = 0; j < Array.length; j++) {
 
