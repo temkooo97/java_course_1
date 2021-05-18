@@ -2,7 +2,7 @@ package com.artem.idea;
 
 import java.util.Scanner;
 
-public class Task_8 {
+public class Task_9 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
